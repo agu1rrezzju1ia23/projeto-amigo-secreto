@@ -66,7 +66,7 @@
 
 ## Acesso ao projeto
 
-
+Você pode [acessar o código fonte do projeto](https://github.com/agu1rrezzju1ia23/projeto-amigo-secreto) ou [acessá-lo diretamente.](https://projeto-amigo-secreto-liart.vercel.app/).
 
 
 ## Desenvolvedora
@@ -74,6 +74,19 @@
 <img src="desenvolvedora.julia.aguirrez_resized.jpg" alt="Foto de Julia Aguirrez" width="200">
 
 **Julia Aguirrez**  
-[![LinkedIn](./assets/linkedin.png)](https://www.linkedin.com/in/julia-aguirrez-a88b16200)
+
+<div>
+<a href="(https://www.linkedin.com/in/julia-aguirrez-a88b16200)" target="_blank">
+  <img src="LinkedIn_logo_initials.png" alt="Logo LinkedIn" width="40"/>
+</a>
+ <a href="mailto:juliaaguirrez950@gmail.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/new-post.png" alt="E-mail" width="50" style="vertical-align: middle; />
+    </a>
+    <a href="https://www.instagram.com/sousaaguirrez?igsh=ZTVkdGN6aTMxZnBr">
+      <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="50"  />
+    </a>
+</div> 
+
+
 
 
