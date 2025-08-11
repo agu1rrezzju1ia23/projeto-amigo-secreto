@@ -66,7 +66,7 @@
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/agu1rrezzju1ia23/projeto-amigo-secreto) ou [acessá-lo diretamente.](https://projeto-amigo-secreto-liart.vercel.app/).
+Você pode [acessar o código fonte do projeto](https://github.com/agu1rrezzju1ia23/projeto-amigo-secreto)
 
 
 ## Desenvolvedora
